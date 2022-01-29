@@ -10,18 +10,21 @@ Analyze data in a student funding & student's standardized tests. Aggregate data
 ### Per School Summary
 #### Output before
 <img width="984" alt="Per_School_Summary_df" src="https://user-images.githubusercontent.com/71950779/151650155-0bdf9ce8-8739-4761-9e47-cd748d7386f8.png">
+
 #### Output after modifying ninth grader's scores
 <img width="978" alt="Per_School_Summary_Modified" src="https://user-images.githubusercontent.com/71950779/151650477-762ea436-78f0-4c09-98ca-af8475bbc3ec.png">
 
 ### District Summary
 #### Output
 <img width="705" alt="Type_Summary_df" src="https://user-images.githubusercontent.com/71950779/151650203-8ec82ec7-a16c-4485-a3eb-07df55b4706a.png">
+
 #### Output after modifying ninth grader's scores
 <img width="711" alt="Type_Summary_Modified" src="https://user-images.githubusercontent.com/71950779/151650188-185ca129-905d-43b2-8338-71733aeacc82.png">
 
 ### Spending Ranges
 #### Output
 <img width="814" alt="Spending_Ranges_df" src="https://user-images.githubusercontent.com/71950779/151650210-d25a2208-4c51-410b-8f6b-1ce04f3c6925.png">
+
 #### Output after modifying ninth grader's scores
 <img width="814" alt="Spending_Ranges_Modified" src="https://user-images.githubusercontent.com/71950779/151650222-fb52b752-fea5-4d4d-be2b-032b34681b75.png">
 
@@ -34,21 +37,30 @@ Analyze data in a student funding & student's standardized tests. Aggregate data
 ### School Type
 #### Output
 <img width="705" alt="Type_Summary_df" src="https://user-images.githubusercontent.com/71950779/151650372-34a73ce8-ef7d-4872-98c7-b36f5f8eb46a.png">
+
 #### Output after modifying ninth grader's scores
 <img width="711" alt="Type_Summary_Modified" src="https://user-images.githubusercontent.com/71950779/151650374-0a144f8d-8441-4cb1-80b9-99913ba8995f.png">
 
 ## Results
 - How is the district summary affected?
-
+  
+  
 - How is the school summary affected?
-- 
-- How does replacing the ninth grader’s math and reading scores affect Thomas High School’s performance relative to the other schools? 
-Replacing this scores affect Thomas High School's position in a good way, improving the performance and ratio 
+  
+  
+- How does replacing the ninth grader’s math and reading scores affect Thomas High School’s performance relative to the other schools?
+  Replacing this scores affect Thomas High School in a good way, improving the performance and position moving Thomas High School to the top schools.
+
 - How does replacing the ninth-grade scores affect the following:
-- - Math and reading scores by grade
-- - Scores by school spending
-- - Scores by school size
-- - Scores by school type
+    - Math and reading scores by grade 
+      The math scores were affected specially in the DataFrame display 9th grader's math scores appears NaN, 
+    - Scores by school spending
+      
+    - Scores by school size
+      
+      
+    - Scores by school type
+      
 
 ## Summary
 
