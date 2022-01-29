@@ -4,38 +4,38 @@
 Lydia Delgado Uriarte
 
 ## Overview
-Analyze data in a student funding & student's standardized tests. Aggregate data and showcase trends in school performance, regarding the school budget and priorities, protecting the privacy and data of the students. 
+Analyze data in a student funding & student's standardized tests. Aggregate data and showcase trends in school performance, regarding the school budget and priorities, protecting the privacy and data of the students.
 
 ## Output
 ### Per School Summary
 #### Output before
-<img width="975" alt="Per_School_Summary" src="https://user-images.githubusercontent.com/71950779/151480551-2f54e5cf-284c-40b7-9b5e-37d7e854a780.png">
+<img width="984" alt="Per_School_Summary_df" src="https://user-images.githubusercontent.com/71950779/151650155-0bdf9ce8-8739-4761-9e47-cd748d7386f8.png">
 #### Output after modifying ninth grader's scores
-<img width="978" alt="Per_School_Summary_Modified" src="https://user-images.githubusercontent.com/71950779/151482209-ed826b30-5e67-412e-bd5a-4009a7d71b40.png">
+<img width="978" alt="Per_School_Summary_Modified" src="https://user-images.githubusercontent.com/71950779/151650477-762ea436-78f0-4c09-98ca-af8475bbc3ec.png">
 
 ### District Summary
-#### Output 
-<img width="933" alt="District_Summary_DataFrame" src="https://user-images.githubusercontent.com/71950779/151480545-5c4ef113-6df4-4e28-b2cb-e2253a61dd79.png">
+#### Output
+<img width="705" alt="Type_Summary_df" src="https://user-images.githubusercontent.com/71950779/151650203-8ec82ec7-a16c-4485-a3eb-07df55b4706a.png">
 #### Output after modifying ninth grader's scores
-<img width="932" alt="District_Summary_Modified_df" src="https://user-images.githubusercontent.com/71950779/151482210-962f3a22-61a1-44d9-ae27-2e1d06e94588.png">
+<img width="711" alt="Type_Summary_Modified" src="https://user-images.githubusercontent.com/71950779/151650188-185ca129-905d-43b2-8338-71733aeacc82.png">
 
 ### Spending Ranges
-#### Output 
-<img width="820" alt="Spending_Ranges_df" src="https://user-images.githubusercontent.com/71950779/151480561-02454625-0bc1-47bb-94fe-59440b79a902.png">
+#### Output
+<img width="814" alt="Spending_Ranges_df" src="https://user-images.githubusercontent.com/71950779/151650210-d25a2208-4c51-410b-8f6b-1ce04f3c6925.png">
 #### Output after modifying ninth grader's scores
-<img width="812" alt="Spending_Ranges_Modified_df" src="https://user-images.githubusercontent.com/71950779/151482203-a2eaaacc-b80a-4254-a9f5-943307e57186.png">
+<img width="814" alt="Spending_Ranges_Modified" src="https://user-images.githubusercontent.com/71950779/151650222-fb52b752-fea5-4d4d-be2b-032b34681b75.png">
 
-### School Size 
-#### Output 
-<img width="753" alt="Size_Summary_df" src="https://user-images.githubusercontent.com/71950779/151480555-4d5ab78f-ce03-4106-b22f-71fc22df3beb.png">
+### School Size
+#### Output
+<img width="751" alt="Size_Summary_df" src="https://user-images.githubusercontent.com/71950779/151650260-71632be8-f71d-4ff0-ae1c-53824410010a.png">
 #### Output after modifying ninth grader's scores
-<img width="752" alt="Size_Summary_Modified_df" src="https://user-images.githubusercontent.com/71950779/151482205-24045a52-0058-4240-92a6-d40bf35d4387.png">
+<img width="776" alt="Size_Summary_Modified_df" src="https://user-images.githubusercontent.com/71950779/151650266-9851c17c-5919-4109-99eb-893ba5f25cc1.png">
 
 ### School Type
-#### Output 
-<img width="729" alt="Type_Summary_df" src="https://user-images.githubusercontent.com/71950779/151480563-ee5132a7-0a6f-4a6c-99cd-bfb3b4b258a4.png">
+#### Output
+<img width="705" alt="Type_Summary_df" src="https://user-images.githubusercontent.com/71950779/151650372-34a73ce8-ef7d-4872-98c7-b36f5f8eb46a.png">
 #### Output after modifying ninth grader's scores
-<img width="704" alt="Type_Summary_Modified_df" src="https://user-images.githubusercontent.com/71950779/151482201-a7081857-a153-42f1-a8e9-1d84c0ea95c1.png">
+<img width="711" alt="Type_Summary_Modified" src="https://user-images.githubusercontent.com/71950779/151650374-0a144f8d-8441-4cb1-80b9-99913ba8995f.png">
 
 ## Results
 - How is the district summary affected?
