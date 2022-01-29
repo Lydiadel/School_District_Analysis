@@ -41,12 +41,14 @@ Analyze data in a student funding & student's standardized tests. Aggregate data
 - How is the district summary affected?
 
 - How is the school summary affected?
+- 
 - How does replacing the ninth grader’s math and reading scores affect Thomas High School’s performance relative to the other schools? 
+Replacing this scores affect Thomas High School's position in a good way, improving the performance and ratio 
 - How does replacing the ninth-grade scores affect the following:
--- Math and reading scores by grade
--- Scores by school spending
--- Scores by school size
--- Scores by school type
+- - Math and reading scores by grade
+- - Scores by school spending
+- - Scores by school size
+- - Scores by school type
 
 ## Summary
 
