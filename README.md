@@ -31,6 +31,7 @@ Analyze data in a student funding & student's standardized tests. Aggregate data
 ### School Size
 #### Output
 <img width="751" alt="Size_Summary_df" src="https://user-images.githubusercontent.com/71950779/151650260-71632be8-f71d-4ff0-ae1c-53824410010a.png">
+
 #### Output after modifying ninth grader's scores
 <img width="776" alt="Size_Summary_Modified_df" src="https://user-images.githubusercontent.com/71950779/151650266-9851c17c-5919-4109-99eb-893ba5f25cc1.png">
 
@@ -43,26 +44,27 @@ Analyze data in a student funding & student's standardized tests. Aggregate data
 
 ## Results
 - How is the district summary affected?
-  It is not affected at all, the calculations doesn't change from the previous one.   
+  - It is not affected at all, the calculations doesn't change from the previous one.   
   
 - How is the school summary affected?
-  The school summary is affected in the passing percentage, passing math reduce a 27% and passing reading a 27% which affect as well the overall pasing also 27%. This information allow make a deduction were that 27% of the failling ones were the 9th graders students.
+  - The school summary is affected in the passing percentage, passing math reduce a 27% and passing reading a 27% which affect as well the overall pasing also 27%. 
+  - This information allow make a deduction were that 27% of the failling ones were the 9th graders students.
   
 - How does replacing the ninth grader’s math and reading scores affect Thomas High School’s performance relative to the other schools?
   - Replacing this scores affect Thomas High School specially, making other school be better than this school. 
-  -
+  
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade 
       - The math scores were not affected at all sincee the only ones changed were 9th graders scores.
       
     - Scores by school spending
-      - The spending ranges between $630 - $644 there is a different outcome after changing 9th graders math scores 
+      - The spending ranges between $630 - $644 there is a different outcome after changing 9th graders math scores reducing the passing percentage.
       
     - Scores by school size
-      The output given after changing 9th grader's score we can see how the medium school size which has between (1000 - 2000) students their scores were decreased in the percentage of passing math and reading.
+      - The output given after changing 9th grader's score we can see how the medium school size which has between (1000 - 2000) students their scores were decreased in the percentage of passing math and reading.
       
     - Scores by school type
-      This scores were not affected at all, same as the district summary. 
+      - This scores were not affected at all, same as the district summary. 
 
 ## Summary
 Major changes presented in the District Analysis
