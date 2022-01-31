@@ -53,10 +53,10 @@ Analyze data in a student funding & student's standardized tests. Aggregate data
   -
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade 
-      The math scores were not affected at all sincee the only ones changed were 9th graders scores.
+      - The math scores were not affected at all sincee the only ones changed were 9th graders scores.
       
     - Scores by school spending
-      The spending ranges between $630 - $644 there is a different outcome after changing 9th graders math scores, 
+      - The spending ranges between $630 - $644 there is a different outcome after changing 9th graders math scores 
       
     - Scores by school size
       The output given after changing 9th grader's score we can see how the medium school size which has between (1000 - 2000) students their scores were decreased in the percentage of passing math and reading.
